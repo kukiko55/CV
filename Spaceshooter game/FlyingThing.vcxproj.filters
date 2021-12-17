@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Source\utils.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\define.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\objects.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\utils.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{2d772b85-939a-46bd-8467-01c07dfc96f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
